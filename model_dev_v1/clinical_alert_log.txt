@@ -1,0 +1,203 @@
+================================================================================
+CLINICAL RISK SIMULATION LOG (Patient: USR-5UZBIKCI)
+================================================================================
+2026-03-28 01:56 | HR: 64.3 | SpO2:100.0 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:01 | HR: 62.7 | SpO2: 98.6 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:06 | HR: 62.7 | SpO2: 99.2 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:11 | HR: 61.0 | SpO2: 98.9 | BR:  8.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:16 | HR: 64.1 | SpO2: 99.7 | BR:  8.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:21 | HR: 60.9 | SpO2: 99.6 | BR:  8.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:26 | HR: 59.9 | SpO2: 99.4 | BR:  8.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:31 | HR: 60.8 | SpO2: 98.2 | BR:  8.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:36 | HR: 61.7 | SpO2: 98.8 | BR: 10.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:41 | HR: 63.8 | SpO2: 98.9 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:46 | HR: 62.0 | SpO2: 98.9 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:51 | HR: 66.8 | SpO2: 99.3 | BR:  9.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 02:56 | HR: 60.4 | SpO2: 99.1 | BR:  8.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:01 | HR: 66.3 | SpO2: 98.7 | BR: 10.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:06 | HR: 62.9 | SpO2:100.0 | BR:  9.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:11 | HR: 57.5 | SpO2:100.0 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:16 | HR: 61.5 | SpO2: 98.5 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:21 | HR: 58.9 | SpO2: 99.4 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:26 | HR: 58.5 | SpO2: 99.4 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:31 | HR: 63.1 | SpO2: 99.3 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:36 | HR: 68.3 | SpO2: 99.0 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:41 | HR: 67.2 | SpO2: 99.3 | BR: 11.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:46 | HR: 64.8 | SpO2: 99.1 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:51 | HR: 63.0 | SpO2: 99.5 | BR:  9.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 03:56 | HR: 61.0 | SpO2: 99.6 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:01 | HR: 62.9 | SpO2: 98.9 | BR:  9.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:06 | HR: 61.4 | SpO2: 99.1 | BR:  9.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:11 | HR: 67.9 | SpO2: 99.3 | BR: 10.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:16 | HR: 57.4 | SpO2: 99.1 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:21 | HR: 59.9 | SpO2: 99.3 | BR:  8.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:26 | HR: 66.6 | SpO2: 99.2 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:31 | HR: 65.0 | SpO2: 99.0 | BR:  9.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:36 | HR: 66.2 | SpO2: 98.2 | BR: 10.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:41 | HR: 69.9 | SpO2: 98.4 | BR: 10.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:46 | HR: 59.6 | SpO2: 99.3 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:51 | HR: 59.9 | SpO2: 98.7 | BR:  8.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 04:56 | HR: 66.9 | SpO2: 99.6 | BR: 10.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:01 | HR: 61.5 | SpO2:100.0 | BR:  8.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:06 | HR: 65.0 | SpO2: 99.3 | BR:  9.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:11 | HR: 66.2 | SpO2: 99.5 | BR:  9.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:16 | HR: 63.8 | SpO2: 98.6 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:21 | HR: 67.0 | SpO2: 99.8 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:26 | HR: 58.9 | SpO2: 98.7 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:31 | HR: 61.0 | SpO2: 98.7 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:36 | HR: 63.8 | SpO2: 99.6 | BR:  8.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:41 | HR: 68.7 | SpO2: 99.1 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:46 | HR: 62.8 | SpO2: 99.1 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:51 | HR: 62.9 | SpO2: 98.8 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 05:56 | HR: 60.0 | SpO2: 99.1 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:01 | HR: 57.9 | SpO2: 99.8 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:06 | HR: 63.4 | SpO2: 99.3 | BR:  9.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:11 | HR: 64.7 | SpO2: 98.2 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:16 | HR: 65.1 | SpO2: 98.5 | BR: 10.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:21 | HR: 65.8 | SpO2: 99.8 | BR: 10.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:26 | HR: 62.8 | SpO2: 99.3 | BR:  8.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:31 | HR: 61.9 | SpO2: 99.9 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:36 | HR: 63.4 | SpO2: 99.0 | BR:  9.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:41 | HR: 59.4 | SpO2: 99.7 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:46 | HR: 62.0 | SpO2: 99.7 | BR:  9.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:51 | HR: 61.3 | SpO2: 99.2 | BR:  8.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 06:56 | HR: 61.9 | SpO2: 99.9 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:01 | HR: 62.1 | SpO2: 99.3 | BR:  8.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:06 | HR: 63.7 | SpO2: 99.6 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:11 | HR: 59.7 | SpO2:100.0 | BR:  8.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:16 | HR: 66.3 | SpO2: 98.7 | BR:  9.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:21 | HR: 62.0 | SpO2: 98.8 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:26 | HR: 64.5 | SpO2: 98.8 | BR: 10.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:31 | HR: 63.5 | SpO2: 98.4 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:36 | HR: 65.8 | SpO2: 98.8 | BR:  9.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:41 | HR: 63.6 | SpO2: 99.4 | BR:  9.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:46 | HR: 63.0 | SpO2: 99.2 | BR:  9.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:51 | HR: 63.9 | SpO2: 98.7 | BR:  9.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 07:56 | HR: 63.9 | SpO2: 98.9 | BR:  9.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:01 | HR: 60.2 | SpO2: 99.9 | BR:  8.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:06 | HR: 61.2 | SpO2: 98.9 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:11 | HR: 62.5 | SpO2: 99.7 | BR: 10.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:16 | HR: 61.2 | SpO2: 99.6 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:21 | HR: 61.2 | SpO2: 98.2 | BR:  9.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:26 | HR: 66.3 | SpO2: 99.7 | BR: 10.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:31 | HR: 67.2 | SpO2: 98.5 | BR: 11.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:36 | HR: 64.9 | SpO2: 99.5 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:41 | HR: 59.7 | SpO2:100.0 | BR:  8.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:46 | HR: 64.2 | SpO2: 99.2 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:51 | HR: 66.2 | SpO2: 98.9 | BR:  9.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 08:56 | HR: 67.1 | SpO2: 98.7 | BR: 10.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:01 | HR: 60.4 | SpO2: 98.2 | BR:  8.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:06 | HR: 63.8 | SpO2: 99.6 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:11 | HR: 66.7 | SpO2: 99.4 | BR: 10.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:16 | HR: 63.1 | SpO2: 99.9 | BR:  9.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:21 | HR: 64.5 | SpO2: 99.7 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:26 | HR: 63.8 | SpO2: 99.5 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:31 | HR: 66.4 | SpO2: 98.6 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:36 | HR: 64.5 | SpO2: 98.6 | BR:  9.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:41 | HR: 66.5 | SpO2: 99.3 | BR: 10.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:46 | HR: 66.1 | SpO2: 99.6 | BR:  9.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:51 | HR: 56.5 | SpO2: 99.7 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 09:56 | HR: 61.2 | SpO2: 98.8 | BR:  8.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:01 | HR: 66.7 | SpO2: 98.6 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:06 | HR: 63.5 | SpO2: 98.6 | BR:  8.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:11 | HR: 58.6 | SpO2: 98.8 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:16 | HR: 59.9 | SpO2: 99.1 | BR:  8.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:21 | HR: 67.6 | SpO2: 99.5 | BR: 10.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:26 | HR: 62.7 | SpO2: 99.3 | BR:  8.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:31 | HR: 63.1 | SpO2: 99.8 | BR:  9.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:36 | HR: 63.4 | SpO2: 99.6 | BR:  9.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:41 | HR: 65.6 | SpO2: 99.3 | BR: 11.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:46 | HR: 68.9 | SpO2: 98.6 | BR: 10.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:51 | HR: 63.4 | SpO2: 98.5 | BR:  9.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 10:56 | HR: 64.3 | SpO2: 98.9 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:01 | HR: 66.3 | SpO2: 98.7 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:06 | HR: 63.5 | SpO2: 99.8 | BR:  9.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:11 | HR: 69.2 | SpO2:100.0 | BR: 11.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:16 | HR: 64.2 | SpO2: 99.3 | BR:  8.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:21 | HR: 61.6 | SpO2: 98.7 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:26 | HR: 64.0 | SpO2: 99.4 | BR: 10.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:31 | HR: 63.6 | SpO2: 99.6 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:36 | HR: 65.4 | SpO2: 99.7 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:41 | HR: 65.7 | SpO2: 99.7 | BR: 10.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:46 | HR: 65.9 | SpO2: 98.7 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:51 | HR: 64.8 | SpO2:100.0 | BR:  8.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 11:56 | HR: 67.1 | SpO2:100.0 | BR:  9.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:01 | HR: 59.6 | SpO2: 99.3 | BR:  8.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:06 | HR: 64.8 | SpO2: 99.2 | BR:  9.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:11 | HR: 64.4 | SpO2: 98.9 | BR:  9.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:16 | HR: 69.5 | SpO2: 98.1 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:21 | HR: 63.2 | SpO2: 99.2 | BR:  9.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:26 | HR: 60.8 | SpO2: 98.8 | BR:  9.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:31 | HR: 63.6 | SpO2:100.0 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:36 | HR: 64.5 | SpO2: 99.4 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:41 | HR: 64.7 | SpO2: 99.3 | BR:  9.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:46 | HR: 60.5 | SpO2: 99.1 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:51 | HR: 61.1 | SpO2: 99.4 | BR:  8.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 12:56 | HR: 60.5 | SpO2:100.0 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:01 | HR: 62.7 | SpO2: 99.6 | BR:  9.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:06 | HR: 63.1 | SpO2: 99.4 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:11 | HR: 68.1 | SpO2: 99.7 | BR: 10.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:16 | HR: 62.5 | SpO2: 98.8 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:21 | HR: 64.8 | SpO2: 99.6 | BR: 10.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:26 | HR: 64.3 | SpO2:100.0 | BR:  9.7 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:31 | HR: 56.2 | SpO2: 98.8 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:36 | HR: 64.9 | SpO2: 99.0 | BR: 10.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:41 | HR: 60.3 | SpO2: 98.8 | BR:  8.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:46 | HR: 63.5 | SpO2: 99.2 | BR:  8.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:51 | HR: 64.1 | SpO2: 99.1 | BR:  9.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 13:56 | HR: 65.2 | SpO2: 98.9 | BR: 10.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 14:01 | HR: 65.1 | SpO2: 99.8 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 14:06 | HR: 66.1 | SpO2: 98.5 | BR:  8.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 14:11 | HR: 72.1 | SpO2: 99.2 | BR: 10.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 14:16 | HR:107.2 | SpO2: 98.8 | BR: 16.7 | Model Flag: [!] | Score:  20 | Alert: NORMAL
+2026-03-28 14:21 | HR: 99.3 | SpO2: 97.6 | BR: 13.3 | Model Flag: [!] | Score:  40 | Alert: MILD DEVIATION (Self-Check Suggested)
+2026-03-28 14:26 | HR:102.8 | SpO2:100.0 | BR: 14.1 | Model Flag: [!] | Score:  60 | Alert: MODERATE CONCERN (Monitor Closely)
+2026-03-28 14:31 | HR:120.3 | SpO2:100.0 | BR: 21.2 | Model Flag: [!] | Score:  80 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 14:36 | HR: 98.9 | SpO2:100.0 | BR: 16.6 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 14:41 | HR:101.9 | SpO2: 97.4 | BR: 13.6 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 14:46 | HR:115.9 | SpO2: 99.4 | BR: 21.3 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 14:51 | HR: 93.9 | SpO2: 96.6 | BR: 15.7 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 14:56 | HR: 96.7 | SpO2: 98.7 | BR: 14.8 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:01 | HR: 91.0 | SpO2: 99.6 | BR: 10.6 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:06 | HR: 85.8 | SpO2:100.0 | BR:  8.3 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:11 | HR:110.5 | SpO2:100.0 | BR: 15.8 | Model Flag: [!] | Score: 100 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:16 | HR: 84.7 | SpO2: 99.8 | BR: 13.0 | Model Flag: [ ] | Score:  95 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:21 | HR: 82.3 | SpO2:100.0 | BR: 13.0 | Model Flag: [ ] | Score:  90 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:26 | HR: 74.8 | SpO2: 99.5 | BR:  9.9 | Model Flag: [ ] | Score:  85 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:31 | HR: 77.0 | SpO2: 98.7 | BR: 11.2 | Model Flag: [ ] | Score:  80 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:36 | HR: 84.0 | SpO2: 99.4 | BR: 11.8 | Model Flag: [ ] | Score:  75 | Alert: HIGH RISK (Immediate Action Required)
+2026-03-28 15:41 | HR: 85.5 | SpO2: 99.5 | BR: 14.1 | Model Flag: [ ] | Score:  70 | Alert: MODERATE CONCERN (Monitor Closely)
+2026-03-28 15:46 | HR: 78.0 | SpO2: 99.0 | BR: 11.1 | Model Flag: [ ] | Score:  65 | Alert: MODERATE CONCERN (Monitor Closely)
+2026-03-28 15:51 | HR: 81.9 | SpO2: 99.0 | BR: 13.1 | Model Flag: [ ] | Score:  60 | Alert: MODERATE CONCERN (Monitor Closely)
+2026-03-28 15:56 | HR: 81.0 | SpO2: 99.2 | BR: 12.5 | Model Flag: [ ] | Score:  55 | Alert: MODERATE CONCERN (Monitor Closely)
+2026-03-28 16:01 | HR: 75.7 | SpO2: 99.0 | BR: 10.7 | Model Flag: [ ] | Score:  50 | Alert: MODERATE CONCERN (Monitor Closely)
+2026-03-28 16:06 | HR: 84.7 | SpO2: 99.3 | BR: 14.0 | Model Flag: [ ] | Score:  45 | Alert: MILD DEVIATION (Self-Check Suggested)
+2026-03-28 16:11 | HR: 84.7 | SpO2: 98.8 | BR: 12.4 | Model Flag: [ ] | Score:  40 | Alert: MILD DEVIATION (Self-Check Suggested)
+2026-03-28 16:16 | HR: 75.6 | SpO2: 99.9 | BR: 10.5 | Model Flag: [ ] | Score:  35 | Alert: MILD DEVIATION (Self-Check Suggested)
+2026-03-28 16:21 | HR: 80.6 | SpO2: 98.7 | BR: 12.2 | Model Flag: [ ] | Score:  30 | Alert: MILD DEVIATION (Self-Check Suggested)
+2026-03-28 16:26 | HR: 85.9 | SpO2: 99.2 | BR: 14.1 | Model Flag: [ ] | Score:  25 | Alert: MILD DEVIATION (Self-Check Suggested)
+2026-03-28 16:31 | HR: 79.1 | SpO2: 99.3 | BR: 11.7 | Model Flag: [ ] | Score:  20 | Alert: NORMAL
+2026-03-28 16:36 | HR: 82.3 | SpO2: 98.6 | BR: 12.4 | Model Flag: [ ] | Score:  15 | Alert: NORMAL
+2026-03-28 16:41 | HR: 76.4 | SpO2:100.0 | BR: 11.1 | Model Flag: [ ] | Score:  10 | Alert: NORMAL
+2026-03-28 16:46 | HR: 81.0 | SpO2: 99.7 | BR: 11.7 | Model Flag: [ ] | Score:   5 | Alert: NORMAL
+2026-03-28 16:51 | HR: 82.9 | SpO2: 99.3 | BR: 12.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 16:56 | HR: 80.1 | SpO2: 99.3 | BR: 11.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:01 | HR: 68.5 | SpO2: 98.7 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:06 | HR: 69.7 | SpO2:100.0 | BR: 10.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:11 | HR: 68.4 | SpO2: 99.1 | BR:  8.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:16 | HR: 65.8 | SpO2: 98.7 | BR:  8.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:21 | HR: 66.2 | SpO2: 98.7 | BR:  8.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:26 | HR: 71.7 | SpO2: 99.1 | BR: 10.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:31 | HR: 67.2 | SpO2: 99.3 | BR:  8.8 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:36 | HR: 66.5 | SpO2: 98.9 | BR:  9.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:41 | HR: 69.0 | SpO2:100.0 | BR:  9.4 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:46 | HR: 62.7 | SpO2: 99.7 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:51 | HR: 64.1 | SpO2: 99.4 | BR:  8.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 17:56 | HR: 66.1 | SpO2: 99.9 | BR:  9.5 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 18:01 | HR: 68.5 | SpO2: 99.8 | BR: 10.6 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 18:06 | HR: 66.1 | SpO2: 99.2 | BR: 10.2 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 18:11 | HR: 64.0 | SpO2: 99.1 | BR: 10.3 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 18:16 | HR: 59.2 | SpO2: 98.9 | BR:  8.1 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 18:21 | HR: 67.8 | SpO2: 99.7 | BR: 11.0 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 18:26 | HR: 66.1 | SpO2: 99.2 | BR:  9.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
+2026-03-28 18:31 | HR: 65.0 | SpO2: 99.1 | BR:  9.9 | Model Flag: [ ] | Score:   0 | Alert: NORMAL
