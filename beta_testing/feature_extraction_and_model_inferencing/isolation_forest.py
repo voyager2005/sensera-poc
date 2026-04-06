@@ -12,8 +12,10 @@ from sklearn.metrics import classification_report
 def main():
     print("Loading data...")
     try:
-        epochs_df = pd.read_csv("health_epochs.csv")
-        users_df = pd.read_csv("health_users.csv")
+        epoch_path = r"sensera-poc\health_epochs.csv"
+        users_path = r"sensera-poc\health_users.csv"
+        epochs_df = pd.read_csv(epoch_path)
+        users_df = pd.read_csv(users_path)
     except FileNotFoundError:
         print("Error: Could not find CSV files. Make sure they are generated.")
         return
